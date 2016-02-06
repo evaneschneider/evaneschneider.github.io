@@ -1717,15 +1717,15 @@
 				height: 48px;
 			}
 
-		.image.avatar192 {
-			width: 192px;
-			height: 192px;
+		.image.avatar96 {
+			width: 96px;
+			height: 96px;
 			background: #f00;
 		}
 
-			.image.avatar192 img {
-				width: 192px;
-				height: 192px;
+			.image.avatar96 img {
+				width: 96px;
+				height: 96px;
 			}
 
 
