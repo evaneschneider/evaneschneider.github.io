@@ -217,6 +217,17 @@
 			}
 		}
 
+		&.avatar192 {
+			width: 192px;
+			height: 192px;
+			background: #f00;
+
+			img {
+				width: 192px;
+				height: 192px;
+			}
+		}
+
 		&.fit {
 			display: block;
 			width: 100%;

@@ -1717,6 +1717,18 @@
 				height: 48px;
 			}
 
+		.image.avatar192 {
+			width: 192px;
+			height: 192px;
+			background: #f00;
+		}
+
+			.image.avatar192 img {
+				width: 192px;
+				height: 192px;
+			}
+
+
 		.image.fit {
 			display: block;
 			width: 100%;
